@@ -5,7 +5,7 @@
 
 &emsp;
 <div
-  <h2 align="left">System technique. I have experience maintaining windows and linux systems, web software development.</h2>
+  <h2 align="left">System technique. I have experience maintaining windows, linux systems and software development.</h2>
   <a href="https://main--imaginative-clafoutis-b4c6c7.netlify.app/">More about me.</a>
 
 <!--
