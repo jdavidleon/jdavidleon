@@ -4,7 +4,7 @@
     Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm David León
   </h1>
   <h3 align="left">
-    <b>Technician of Windows, Linux systems and front-end software development, back-end.</b>
+    <b>Windows, Linux systems technique and front-end, back-end software development.</b>
   </h3>
   <a href="https://main--imaginative-clafoutis-b4c6c7.netlify.app/">More about me.</a>
 </div>
