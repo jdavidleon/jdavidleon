@@ -1,29 +1,16 @@
 <section>
 <div align="center">
-  <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm David</h1>
-</div>
-
-&emsp;
-<div
-  <h2 align="left">System technique. I have experience maintaining windows, linux systems and software development.</h2>
+  <h1 align="center">
+    Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm David León
+  </h1>
+  <h3 align="left">
+    <b>Technician of Windows, Linux systems and front-end software development, back-end.</b>
+  </h3>
   <a href="https://main--imaginative-clafoutis-b4c6c7.netlify.app/">More about me.</a>
-
-<!--
-- 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
-
-- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
--->
-
-- 🌱 I’m currently learning **Tensorflow**
-
-- 💬 Ask me about **web development, no-relatio database, Machine Learning**
 </div>
 </section>
-  
-<br /><br />
-
 <section>
-
+  
 ## 🛠️ My Skills
 ### Frontent
 ![JavaScript](https://img.shields.io/badge/-JavaScript-111?&logo=JavaScript)
