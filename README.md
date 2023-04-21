@@ -27,6 +27,7 @@
 ![Python](https://img.shields.io/badge/-Python-111?&logo=Python)
 -->
 ### Backend & Database
+![NenoJS](https://img.shields.io/badge/-DenoJS-111?&logo=DenoJS)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-111?&logo=NodeJS)
 ![Express](https://img.shields.io/badge/-Express-111?&logo=Express)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-111?&logo=Mongoose)
