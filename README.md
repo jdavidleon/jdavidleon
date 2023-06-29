@@ -33,9 +33,12 @@
 ![Mongoose](https://img.shields.io/badge/-Mongoose-111?&logo=Mongoose)
   
 ![MondoBD](https://img.shields.io/badge/-MondoBD-111?&logo=MondoBD)
+
+<!--
 ### Machine Learning
 ![Python](https://img.shields.io/badge/-Python-111?&logo=Python)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-111?&logo=Tensorflow)
+-->
 </section>
 
 <br />
