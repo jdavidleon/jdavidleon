@@ -13,13 +13,14 @@
   
 ## 🛠️ My Skills
 ### Frontent
+<!--
 ![JavaScript](https://img.shields.io/badge/-JavaScript-111?&logo=JavaScript)
+-->
 ![TypeScript](https://img.shields.io/badge/-TypeScript-111?&logo=TypeScript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-111?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-111?&logo=Redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-111?&logo=Next.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-111?&logo=Bootstrap)
-![SCSS](https://img.shields.io/badge/-Tailwind-111?&logo=Tailwind)
 ![CSS](https://img.shields.io/badge/-CSS-111?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-111?&logo=HTML5)
 <!--
