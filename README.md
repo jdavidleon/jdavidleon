@@ -44,9 +44,9 @@
 <br />
 
 <section>
-  
-## Meet me at
 
+<!--
+## Meet me at
 &emsp;
 <a href="https://www.freecodecamp.org/DevDavidleon">
     ![Freecodecamp](https://img.shields.io/badge/-Freecodecamp-111?&logo=Freecodecamp)
@@ -57,7 +57,7 @@
 <a href="https://replit.com/@J-DavidDavid3">
     ![CodePen](https://img.shields.io/badge/-Replit-111?&logo=Replit)
 </a>
-  
+-->
 <!--  
 <a href="https://stackoverflow.com/users/14958897/berkeli">
     ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
